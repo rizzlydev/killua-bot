@@ -4,18 +4,18 @@
     "apikey": "YOURAPIKEY"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "limitCount": 20,
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "Made By Killua-Bot",
+    "author": "@RizFurr"
   },
   "owner": [
-    "62812xxx"
+    "6282196930963"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "malas"
 }
