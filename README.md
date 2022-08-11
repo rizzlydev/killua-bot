@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
 <img src="https://zenzapis.xyz/upload/icon.jpg" alt="nz" width="350"/>
-</p>
+</p>-->
 
 ## Killua-Zoldyck
 
@@ -58,7 +58,7 @@ Add FFmpeg to PATH environment variable
 
 <!-- Edit -->
 <b><details><summary>Edit config.json</summary></b>
-```bash
+```js
 "APIs": {
     "zenz": "https://zenzapis.xyz",
     "apikey": "YOURAPIKEY"
@@ -127,8 +127,7 @@ SCAN THE QR USING YOUR WHATSAPP!
 	
 	Pull requests are welcome. Your contribution is helping me too
 	
-Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
-	
+
 </details>
 
 
